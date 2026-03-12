@@ -1,4 +1,4 @@
-# Python-Finance-Tracker-Project-JOHNNYN
+# Python FinanceTracker Project-JOHNNYN
 Github repository containing all necessary files required for running and operating Johnny's version of a simple command-line "Finance Tracker" using Python's SQLite.
 
 # Project Features:
