@@ -15,3 +15,7 @@ Github repository containing all necessary files required for running and operat
 # How to run the Project:
 1. Copy all python files from this repository into the same working directory
 2. Compile and run the "Main.py" python file
+
+# Future Works:
+- Improve the UI
+- Add more functions/methods
