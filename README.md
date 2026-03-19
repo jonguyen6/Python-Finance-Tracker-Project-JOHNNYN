@@ -5,6 +5,7 @@ Github repository containing all necessary files required for running and operat
 - Display all categories of data
 - Show all transactions recorded
 - Search tables via Transaction ID, Category ID, transactional type, or transaction Date
+- Add new data to the tables
 - Print all records into an output, CSV file for the user
 - Sample data aggregation
 
